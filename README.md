@@ -3,7 +3,7 @@ Stochastic gradient descent method for reconstructing protein multimer structure
 
 
 
-** Download GFOLD package (short path is recommended)**
+** Download GD-Multimer package (short path is recommended)**
 
 ```
 git clone git@github.com:BioinfoMachineLearning/GD-multimer.git
